@@ -1,16 +1,16 @@
-# Hack Street Boys
+# CtrlAltDegree - AI Powered College Advisor
 
-🔥 Matt– Full-Stack Firestarter & Lead Dev
+Full fledged web application with a sleek and modern look that allows students to optimize their academic journey. This project is a continuation of the inital project created during **Hack Beta 25'**, a yearly hackathon hosted at the University of Mississippi. Created under a team by the name of 'HackStreetBoys', the orginal project files can be found here: [Hack-Beta/Ctrl-Alt-Degree](https://github.com/Hack-Beta/Ctrl-Alt-Degree)
+
+## Hack Beta 25's Hack Street Boys
+
+🔥 Matt – Full-Stack Firestarter & Lead Developer
 
 👾 Garrett – Bug-Hunter & DeepSeek Demon
 
 🦖 Will – Dino Wrangler & Vibemaster
 
 🧠 Andrew – OCR Sleuth & Big JSON
-
-## Ctrl-Alt-Degree - Your New AI Powered Advisor
-
-Full fledged web application with a sleek and modern look that allows students to optimize their academic journey.
 
 ## Built With
 
@@ -31,9 +31,3 @@ Full fledged web application with a sleek and modern look that allows students t
 📳 Use our custom AI for custom course suggestions
 
 🗨️ Consult Realtime with an AI Academic Advisor
-
-## Extras
-
-Computer Vision PDF Uploader
-
-Custom DeepSeek AI Model With Custom Attention Mechanism
