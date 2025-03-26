@@ -1,0 +1,17 @@
+/.env
+/backend
+/eslint.config.js
+/index.html
+/node_modules
+/package-lock.json
+/package.json
+/poetry.lock
+/public
+/pyproject.toml
+/src
+/start-dev.sh
+/stuff
+/tsconfig.app.json
+/tsconfig.json
+/tsconfig.node.json
+/vite.config.ts
